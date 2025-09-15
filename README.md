@@ -110,7 +110,7 @@ if __name__ == "__main__":
 
 ## 📜 License
 
-This project is **MIT Licensed**.
+This project is licensed under the **MIT License**.
 
 ---
 ## 👨‍💻Author 
